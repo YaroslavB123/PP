@@ -1,0 +1,5 @@
+lpnu\service\impl\unit\UserServiceImplTest.class
+lpnu\service\impl\unit\BookServiceImplTest.class
+lpnu\service\impl\integ\BookTest.class
+lpnu\service\impl\unit\LibraryCardServiceImplTest.class
+lpnu\service\impl\integ\UserTest.class
